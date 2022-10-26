@@ -1,0 +1,6 @@
+#clone the repo
+$gitclone https://github.com/sherlock.git
+#changetheworkingdirectorytosherlock
+$cdsherlock
+#installtherequirments
+$python3-mpipinstall-requirments.txt
